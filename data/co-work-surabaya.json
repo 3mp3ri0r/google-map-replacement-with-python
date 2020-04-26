@@ -1,0 +1,170 @@
+[
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "GeCo CoWorkingSpace",
+      "address": "Jl. Ratna No.14, Ngagel, Kec. Wonokromo, Kota SBY, Jawa Timur 60246",
+      "website": "https://www.instagram.com/gecocoworking/"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [112.74550795555115, -7.292224170186679]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "KORIDOR Coworking Space",
+      "address": "Siola, Tunjungan St No.1, Genteng, Surabaya City, East Java 60275",
+      "website": "https://koridor.space/"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [112.73720383644104, -7.25694436103215]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Satu Atap Co-Working Place And Food Station",
+      "address": "Jl. Pacar No.2, Ketabang, Kec. Genteng, Kota SBY, Jawa Timur 60272",
+      "website": "https://satuatapsurabaya.com/"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [112.74714678525925, -7.257122629476261]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "SUB Co, Co-Working Space",
+      "address": "Jl. Raya Darmo Harapan I, Tanjungsari, Kec. Sukomanunggal, Kota SBY, Jawa Timur 60187",
+      "website": "https://subco.id/"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [112.690726, -7.272605]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "DILo Surabaya",
+      "address": "Jl. Ratna No.14, Ngagel, Kec. Wonokromo, Kota SBY, Jawa Timur 60246",
+      "website": "http://dilo.id/surabaya"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [112.74550795555115, -7.292224170186679]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "SUB Co SPAZIO",
+      "address": "Jalan Mayjen Yono Suwoyo kav 3, Spazio 1st Floor, Pradahkalikendal, Kec. Dukuhpakis, Kota SBY, Jawa Timur 60227",
+      "website": "https://subco.id/"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [112.67763733863829, -7.2891698891886785]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Urban Office",
+      "address": "Jl. Dr. Ir. H. Soekarno No.470, Kedung Baruk, Kec. Rungkut, Kota SBY, Jawa Timur 60298",
+      "website": "http://urbanoffice.co.id/"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [112.78070926666258, -7.320956803030229]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Visma Coffee, Art & Co - Working Space",
+      "address": "Jl. Tegalsari No.35, Tegalsari, Kec. Tegalsari, Kota SBY, Jawa Timur 60262",
+      "website": "https://vismacowork.com/"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [112.73835182189941, -7.266012015562111]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "G Workspace",
+      "address": "Jl. Raya Gubeng No.43, Gubeng, Kec. Gubeng, Kota SBY, Jawa Timur 60281",
+      "website": "https://www.instagram.com/g_workspace/"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [112.747496, -7.27357]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Digital Innovation Lounge (DILo) ITS",
+      "address": "Keputih, Sukolilo, Surabaya City, East Java 60117",
+      "website": ""
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [112.794812, -7.283339]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Rekarasa co-learning space",
+      "address": "Siwalankerto, Wonocolo, Surabaya City, East Java 60236",
+      "website": "https://www.instagram.com/rekarasapcu/"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [112.736762, -7.33947]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "OMAH JAMAN NOW",
+      "address": "konoiku caffe, Jl. Pucang Kerep No.38, Pucang, Kec. Gubeng, Kota SBY, Jawa Timur 60241",
+      "website": "https://www.instagram.com/omahjamannow/"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [112.752351, -7.286781]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Ruang by Krya.id",
+      "address": "AD kavling 3, Jl. Kupang Jaya I, Sonokwijenan, Kec. Sukomanunggal, Kota SBY, Jawa Timur 60189",
+      "website": "https://krya.id/"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [112.705684, -7.275831]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Ruang by Krya.id",
+      "address": "Jl. Ngagel Jaya Utara No.140, Baratajaya, Kec. Gubeng, Kota SBY, Jawa Timur 60284",
+      "website": "https://www.instagram.com/hiveandco.sub/"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [112.761298, -7.289503]
+    }
+  }
+]

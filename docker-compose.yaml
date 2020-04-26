@@ -1,0 +1,22 @@
+version: "3"
+services:
+  backend:
+    build:
+      context: backend
+      dockerfile: backend.dockerfile
+    ports:
+      - 8080:8080
+    depends_on:
+      - mongo
+  maps-frontend:
+    build:
+      context: maps-frontend
+      dockerfile: maps-frontend.dockerfile
+    ports:
+      - 80:80
+    depends_on:
+      - backend
+  mongo:
+    image: mongo
+    ports:
+      - 27017:27017
